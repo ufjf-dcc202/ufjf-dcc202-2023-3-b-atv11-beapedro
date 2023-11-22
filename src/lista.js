@@ -1,9 +1,9 @@
 const lista=[
-    "Um","Dois","Três"
+    "Primeiro","Segundo","Terceiro"
 ];
 
 function getLista(){
-
+ return lista;
 }
 
 function adicionaNaLista(){
